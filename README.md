@@ -1,8 +1,11 @@
-# Topological Data Analysis in Machine Learning (TDA in ML)
+# Workshop on Weight-Space Symmetries: from Foundations to Practical Applications at ICML 2026
 
-This is the repository for the web page of our NeurIPS 2020 workshop on
-topological machine learning. Please visit [tda-in-ml.github.io](https://tda-in-ml.github.io)
-for more information.
+This is the repository for the web page of our ICML 2026 workshop on 
+'Weight-Space Symmetries: from Foundations to Practical Applications.
+
+# Code
+This website is forked from the "NeurIPS 2020 workshop on topological machine learning".
+Please visit [tda-in-ml.github.io](https://tda-in-ml.github.io) for more information.
 
 # Licence
 
