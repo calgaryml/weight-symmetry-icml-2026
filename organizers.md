@@ -3,13 +3,6 @@ layout: default
 ---
 
 # Organisers
-Yani Ioannou
-Boris Knyazev
-Ekaterina Lobacheva
-Adnan Mohammed
-Antonio Orvieto
-Alexander Theus
-
 |<img src="/assets/images/organizers/yani.jpg" alt="Yani Ioannou" width="225"/>|<img src="/assets/images/organizers/boris.webp" alt="Boris Knyazev" width="225"/>|<img src="/assets/images/organizers/ekaterina.jpg" alt="Ekaterina Lobacheva" width="225"/>|
 |[Yani Ioannou](https://yani.ai)<br />University of Calgary|[Boris Knyazev](https://bknyaz.github.io)<br />Samsung AI Lab Montreal|[Ekaterina Lobacheva](https://tipt0p.github.io)<br />Mila, Université de Montréal|
 
