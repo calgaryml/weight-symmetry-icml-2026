@@ -1,17 +1,14 @@
-title:       Topological Data Analysis and Beyond
-description: Workshop at NeurIPS 2020
+title:       "Weight-Space Symmetries: from Foundations to Practical Applications"
+description: "Workshop held in conjunction with ICML 2026"
 
-timezone: Europe/Zurich
+timezone: Asia/Seoul
 
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
-  Schedule: "/schedule"
+  # Schedule: "/schedule"
   Speakers: "/speakers"
-  Accepted Papers: "/papers"
-  Organisers: "/organisers"
-  Programme Committee: "/committee"
-  FAQ: "/faq"
+  Organizers: "/organizers"
 
 markdown: kramdown
 

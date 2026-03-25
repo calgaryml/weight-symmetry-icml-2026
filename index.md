@@ -5,15 +5,8 @@ layout: default
 # Overview
 
 | **Date** | One-day workshop on Friday, 11 December 2020 |
-| **Location** | The workshop will be held *virtually*. |
+| **Location** | The workshop will be held in person at the conference venue. |
 
-
-# How to participate
-
-- Visit the [Gather.Town instance of the workshop](https://neurips.gather.town/app/EfqcVjt6CmhKKeu0/TDA%20and%20Beyond%20@%20NeurIPS)
-  to chat with attendees and poster presenters. Check the [schedule](/schedule) to ensure that an author is available to answer your questions *live*.
-- Join our Slack workspace [TDA in ML](https://tda-in-ml.slack.com/join/shared_invite/enQtOTIyMTIyNTYxMTM2LTA2YmQyZjVjNjgxZWYzMDUyODY5MjlhMGE3ZTI1MzE4NjI2OTY0MmUyMmQ3NGE0MTNmMzNiMTViMjM2MzE4OTc#/) for more information about the workshop.  Use the channel `#neurips2020_workshop` to communicate with the attendees, panellists, and
-  organisers.
 
 # Background
  

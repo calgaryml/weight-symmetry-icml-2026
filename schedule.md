@@ -4,6 +4,8 @@ layout: default
 
 # Schedule
 
+To Be Announced. Please check back later!
+<!-- 
 This is the preliminary schedule of the workshop. All slots are provided
 in Central European Time (CET) and Eastern Standard Time (EST) using
 a 24h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert
@@ -208,4 +210,4 @@ or the Slack channel to ask your questions.
 - [Leland McInnes](/speakers#leland-mcinnes)
 - [Liz Munch](/speakers#liz-munch)
 - [Don Sheehy](/speakers#don-sheehy)
-- [Katharine Turner](/speakers#katharine-turner)
+- [Katharine Turner](/speakers#katharine-turner) -->

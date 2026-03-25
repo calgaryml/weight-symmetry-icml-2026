@@ -4,50 +4,27 @@ layout: default
 
 # Speakers
 
-We are happy to feature the following awesome speakers&nbsp;(this list
-is expanded on a rolling basis, stay tuned for more!):
+## Invited Speakers
+We are happy to feature the following invited speakers:
 
-- [Serguei Barannikov](#serguei-barannikov)
-- [Ulrich Bauer](#ulrich-bauer)
-- [Andrew J. Blumberg](#andrew-j-blumberg)
-- [Peter Bubenik](#peter-bubenik)
-- [Gunnar Carlsson](#gunnar-carlsson)
-- [Mathieu Carrière](#mathieu-carrière)
-- [Chao Chen](#chao-chen)
-- [Lorin Crawford](#lorin-crawford)
-- [Brittany Terese Fasy](#brittany-terese-fasy)
-- [Robert Ghrist](#robert-ghrist)
-- [Kathryn Hess](#kathryn-hess)
-- [Yasu Hiraoka](#yasu-hiraoka)
-- [Lida Kanari](#lida-kanari)
-- [Manohar Kaul](#manohar-kaul)
-- [Leland McInnes](#leland-mcinnes)
-- [Facundo Mémoli](#facundo-mémoli)
-- [Liz Munch](#liz-munch)
-- [Vidit Nanda](#vidit-nanda)
-- [Jose Perea](#jose-perea)
-- [Laxmi Parida](#laxmi-parida)
-- [Don Sheehy](#don-sheehy)
-- [Katharine Turner](#katharine-turner)
-- [Bei Wang](#bei-wang)
-- [Yusu Wang](#yusu-wang)
-- [Yuzuru Yamakage](#yuzuru-yamakage)
+- [Karolina Dziugaite](#karolina-dziugaite)
+- [Stefanie Jegelka](#stefanie-jegelka)
+- [Robin Walters](#robin-walters)
+- [Sidak Pal Singh](#sidak-pal-singh)
+- [Zechun Liu](#zechun-liu)
 
-**Keynotes** will be given by:
+## Orals
 
-- [Gunnar Carlsson](#gunnar-carlsson)
-- [Kathryn Hess](#kathryn-hess)
+Orals will be selected from the accepted papers. The speakers will be notified by email at a future date.
 
-## Serguei Barannikov
+## Karolina Dziugaite
 
-| <img src="/assets/images/speakers/sb.jpg" alt="Serguei Barannikov" height="250px" /> |
-| **Topological obstructions in neural networks' learning** |
-| We apply topological data analysis to study loss surfaces of neural networks.  We define neural network’s Topological Obstructions’ score («TO-score») with help of robust topological invariants  (barcodes of loss function) that quantify the “badness” of  local minima for gradient-based optimization.  We have made several experiments for computing these invariants,  for small neural networks,  and for fully connected, convolutional and ResNet-like neural networks on different datasets: MNIST, Fashion MNIST, CIFAR10, SVHN.  Our two principal observations are 1) the neural network’s barcode and TO-score decrease with the increase of the neural network’s depth and width 2)  there is an intriguing connection between the length of minima’s segments in the barcode and  the minima’s generalization error.  The talk is based on joint works with G.Sotnikov, A.Korotin, D.Oganesyan, I.Trofimov, D.Emtsev and E.Burnaev. |
+| <img src="/assets/images/speakers/karolina.jpg" alt="Karolina Dziugaite" height="250px" /> |
 
-| **Affiliation** | [Skoltech & Paris Diderot University](https://webusers.imj-prg.fr/serguei.barannikov) |
-| **Biography** | Serguei Barannikov received his PhD in Mathematics from the University of California, Berkeley (1999). He is a leading research scientist at Skolkovo Institute of Science and Technology. He also holds a position as a CNRS researcher at Paris Diderot University.  He worked as a researcher in mathematics at Institut des Hautes Etudes Scientifiques and at Ecole Normale Supérieure in Paris.  At the age of 20, Barannikov wrote a paper on algebraic topology, in which he introduced "canonical form" invariants of filtered complexes, together with an efficient algorithm for their calculation. Ten years later, these invariants became widely used in topological data analysis under the name of "persistence barcodes" and "persistence diagrams". Dr. Barannikov's recent interests focus on applying  topological data analysis methods to reveal patterns in learning of neural networks. | 
+| **Affiliation** | [Google DeepMind, Mila, McGill University](https://gkdz.org) |
+| **Biography** | Karolina Dziugaite is a senior research scientist at Google DeepMind, based in Toronto, an adjunct professor in the McGill University School of Computer Science, and an associate industry member of Mila, the Quebec AI Institute.  Prior to joining Google, she led the Trustworthy AI program at Element AI / ServiceNow. Her research combines theoretical and empirical approaches to understanding deep learning, with a focus on generalization and network compression. Karolina obtained her Ph.D. in machine learning from the University of Cambridge, under the supervision of Zoubin Ghahramani. Karolina studied Mathematics at the University of Warwick and read Part III in Mathematics at the University of Cambridge, receiving a Masters of Advanced Study (MASt) in Applied Mathematics.| 
 
-<div id="presentation-embed-38938283"></div>
+<!-- <div id="presentation-embed-38938283"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
     embed = new SlidesLiveEmbed('presentation-embed-38938283', {
@@ -55,13 +32,13 @@ is expanded on a rolling basis, stay tuned for more!):
         autoPlay: false, // change to true to autoplay the embedded presentation
         verticalEnabled: true
     });
-</script>
+</script> -->
 
 ## Ulrich Bauer
 
 | <img src="/assets/images/speakers/ub.jpg" alt="Ulrich Bauer" height="250px" /> |
-| **The Representation Theory of Filtered Hierarchical Clustering** |
-| In recent years, several fields in mathematics have sprung up in order to deal with the analysis of large data sets. Topological data analysis is one such field, providing ways of assigning topological invariants to discrete data sets. Perhaps the main example, persistent homology, is well understood and closely related to the representation theory of the Dynkin quiver A~ n. By allowing for an extra parameter, one is led to consider filtered hierarchical clustering methods.  These methods give rise to representations of a commutative grid, whose structure maps in one direction are all epimorphisms. This talk will describe this subcategory by means of a cotorsion torsion triple coming from a tilting object. In particular, this allows us to determine the representation type! This talk is based on joint work with M.B. Botnan, S. Oppermann, and J. Steen. |
+<!-- | **The Representation Theory of Filtered Hierarchical Clustering** |
+| In recent years, several fields in mathematics have sprung up in order to deal with the analysis of large data sets. Topological data analysis is one such field, providing ways of assigning topological invariants to discrete data sets. Perhaps the main example, persistent homology, is well understood and closely related to the representation theory of the Dynkin quiver A~ n. By allowing for an extra parameter, one is led to consider filtered hierarchical clustering methods.  These methods give rise to representations of a commutative grid, whose structure maps in one direction are all epimorphisms. This talk will describe this subcategory by means of a cotorsion torsion triple coming from a tilting object. In particular, this allows us to determine the representation type! This talk is based on joint work with M.B. Botnan, S. Oppermann, and J. Steen. | -->
 
 | **Affiliation** | [Technical University of Munich](https://ulrich-bauer.org) |
 | **Biography** | Ulrich Bauer is an assistant professor in the department of mathematics at the Technical University of Munich (TUM), leading the Applied & Computation Topology group. His research revolves around application-motivated concepts and computational methods in topology and geometry, popularized by application areas such as topological data analysis. Some of his key research areas are persistent homology, discrete Morse theory, and geometric complexes. Ulrich is the author of [Ripser](https://github.com/Ripser/ripser), a leading software for the computation of Vietoris–Rips persistence barcodes. He is also an editor of the Journal of Applied and Computational Topology. | 

@@ -4,6 +4,8 @@ layout: default
 
 # Programme Committee
 
+To be announced. Please check back later!
+<!-- 
 We are grateful for the support of these researchers who will serve as the
 linchpin in ensuring high-quality reviews of all scientific contributions:
 
@@ -52,4 +54,4 @@ linchpin in ensuring high-quality reviews of all scientific contributions:
 - [Jónathan Heras Vicente](https://www.unirioja.es/cu/joheras) (University of La Rioja, [@\_jonathan_heras](https://twitter.com/_jonathan_heras))
 - [Robin Vandaele](https://users.ugent.be/~rvdaele) (Ghent University) 
 - [Caroline Weis](https://weis.ml) (ETH Zurich, [@caroline_v_weis](https://twitter.com/caroline_v_weis))
-- [Emily Winn](http://emilytwinn.com) (Brown University, [@EmilyTWinn13](https://twitter.com/EmilyTWinn13))
+- [Emily Winn](http://emilytwinn.com) (Brown University, [@EmilyTWinn13](https://twitter.com/EmilyTWinn13)) -->
