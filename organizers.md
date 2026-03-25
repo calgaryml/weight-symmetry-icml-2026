@@ -3,10 +3,15 @@ layout: default
 ---
 
 # Organisers
+Yani Ioannou
+Boris Knyazev
+Ekaterina Lobacheva
+Adnan Mohammed
+Antonio Orvieto
+Alexander Theus
 
-|<img src="/assets/images/br.jpg" alt="Bastian Rieck" width="225"/>|<img src="/assets/images/fc.jpg" alt="Frédéric Chazal" width="225"/>|<img src="/assets/images/sk.jpg" alt="Smita Krishnaswamy" width="225"/>|
-|[Bastian Rieck](https://bastian.rieck.me)<br />ETH Zurich|[Frédéric Chazal](https://geometrica.saclay.inria.fr/team/Fred.Chazal/)<br />INRIA Saclay -- Île-de-France|[Smita Krishnaswamy](https://www.krishnaswamylab.org)<br />Yale University|
-|<img src="/assets/images/rk.png" alt="Roland Kwitt" width="225"/>|<img src="/assets/images/knr.jpg" alt="Karthikeyan Natesan Ramamurthy" width="225"/>|<img src="/assets/images/yu.png" alt="Yuhei Umeda" width="225"/>|
-|[Roland Kwitt](https://rkwitt.github.io)<br />University of Salzburg|[Karthikeyan Natesan Ramamurthy](https://nrkarthikeyan.github.io)<br />IBM Research|[Yuhei Umeda](https://www.linkedin.com/in/yuheiumeda-9868221b2/)<br />Fujitsu Laboratories, Ltd.|
-|<img src="/assets/images/gw.jpg" alt="Guy Wolf" width="225"/>|
-|[Guy Wolf](http://guywolf.org)<br />Université de Montréal & MILA|
+|<img src="/assets/images/organizers/yani.jpg" alt="Yani Ioannou" width="225"/>|<img src="/assets/images/organizers/boris.webp" alt="Boris Knyazev" width="225"/>|<img src="/assets/images/organizers/ekaterina.jpg" alt="Ekaterina Lobacheva" width="225"/>|
+|[Yani Ioannou](https://yani.ai)<br />University of Calgary|[Boris Knyazev](https://bknyaz.github.io)<br />Samsung AI Lab Montreal|[Ekaterina Lobacheva](https://tipt0p.github.io)<br />Mila, Université de Montréal|
+
+|<img src="/assets/images/organizers/adnan.jpeg" alt="Adnan Mohammed" width="225"/>|<img src="/assets/images/organizers/antonio.jpeg" alt="Antonio Orvieto" width="225"/>|<img src="/assets/images/organizers/alexander.png" alt="Alexander Theus" width="225"/>|
+|[Adnan Mohammed](https://adnan1306.github.io)<br />University of Calgary|[Antonio Orvieto](http://orvi.altervista.org)<br />ELLIS Institute Tübingen, MPI for Intelligent Systems|[Alexander Theus](https://learning-systems.org/phds)<br />ETH Zürich|
