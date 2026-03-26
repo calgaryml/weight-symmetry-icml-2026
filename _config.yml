@@ -16,7 +16,12 @@ kramdown:
   parse_span_html: true
   parse_block_html: true
 
+remote_theme: pages-themes/cayman@v0.2.0
+
 plugins:
   - jekyll-seo-tag
+  # - jekyll-theme-slate
+  - jekyll-remote-theme
+  - github-pages
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
