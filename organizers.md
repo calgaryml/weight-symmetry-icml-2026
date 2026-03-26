@@ -3,8 +3,11 @@ layout: default
 ---
 
 # Organisers
-|<img src="/assets/images/organizers/yani.jpg" alt="Yani Ioannou" width="225"/>|<img src="/assets/images/organizers/boris.webp" alt="Boris Knyazev" width="225"/>|<img src="/assets/images/organizers/ekaterina.jpg" alt="Ekaterina Lobacheva" width="225"/>|
-|[Yani Ioannou](https://yani.ai)<br />University of Calgary|[Boris Knyazev](https://bknyaz.github.io)<br />Samsung AI Lab Montreal|[Ekaterina Lobacheva](https://tipt0p.github.io)<br />Mila, Université de Montréal|
 
-|<img src="/assets/images/organizers/adnan.jpeg" alt="Adnan Mohammed" width="225"/>|<img src="/assets/images/organizers/antonio.jpeg" alt="Antonio Orvieto" width="225"/>|<img src="/assets/images/organizers/alexander.png" alt="Alexander Theus" width="225"/>|
-|[Adnan Mohammed](https://adnan1306.github.io)<br />University of Calgary|[Antonio Orvieto](http://orvi.altervista.org)<br />ELLIS Institute Tübingen, MPI for Intelligent Systems|[Alexander Theus](https://learning-systems.org/phds)<br />ETH Zürich|
+| ![Yani Ioannou](/assets/images/organizers/yani.webp) | ![Boris Knyazev](/assets/images/organizers/boris.webp) | ![Ekaterina Lobacheva](/assets/images/organizers/ekaterina.webp) |
+
+| [Yani Ioannou](https://yani.ai) - University of Calgary | [Boris Knyazev](https://bknyaz.github.io) - Samsung AI Lab Montreal | [Ekaterina Lobacheva](https://tipt0p.github.io) - Mila, Universite de Montreal |
+
+| ![Adnan Mohammed](/assets/images/organizers/adnan.webp) | ![Antonio Orvieto](/assets/images/organizers/antonio.webp) | ![Alexander Theus](/assets/images/organizers/alexander.webp) |
+| --- | --- | --- |
+| [Adnan Mohammed](https://adnan1306.github.io) - University of Calgary | [Antonio Orvieto](http://orvi.altervista.org) - ELLIS Institute Tubingen, MPI for Intelligent Systems | [Alexander Theus](https://learning-systems.org/phds) - ETH Zurich |
