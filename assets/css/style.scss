@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 $header-heading-color: white;
 $header-bg-color: rgba(0,0,0,0.5);
 $header-bg-color-secondary: rgba(255,255,255,0.5);
@@ -14,8 +16,6 @@ $table-border-color: white !default;
 $hr-border-color: #999 !default;
 
 $code-text-color: black;
-
-@import 'cayman';
 
 .logo-container {
   margin: auto;
@@ -35,6 +35,9 @@ $code-text-color: black;
     font-weight: bold;
     color: $section-headings-color;
   }
+  td, th {
+    border: none!important;
+  }
 }
 
 .page-header {
@@ -42,12 +45,16 @@ $code-text-color: black;
   // opacity: 0.6;
   text-align: center;
   background-color: $header-bg-color;
-  // background-image: url('/assets/images/seoul/2021-03-02-8.jpg');
   // background-image: url('/assets/images/seoul/2021-03-02-6.jpg');
-  background-image: url('/assets/images/banner.png');
+  background-image: url('/assets/images/seoul/2021-03-02-6.jpg');
+  // background-image: url('/assets/images/banner.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
+  td, th {
+    border: none!important;
+  }
 
   // @include large {
   //   padding: 2.5rem 6rem;
