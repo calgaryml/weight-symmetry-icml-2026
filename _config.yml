@@ -24,4 +24,9 @@ plugins:
   - jekyll-remote-theme
   - github-pages
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - vendor/bundle
