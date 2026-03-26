@@ -51,12 +51,35 @@ $code-text-color: black;
   // opacity: 0.6;
   text-align: center;
   background-color: $header-bg-color;
-  // background-image: url('/assets/images/seoul/2021-03-02-6.jpg');
-  background-image: url('/assets/images/seoul/2021-03-02-6.jpg');
-  // background-image: url('/assets/images/banner.png');
+  background-image: url('/assets/images/banner.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  position: relative;
+
+  // Dark overlay to improve text legibility over the background image
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    pointer-events: none;
+  }
+
+  // Ensure all header content sits above the overlay
+  > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  .project-name {
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+    font-weight: 700;
+  }
+
+  .project-tagline {
+    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+  }
 
   td, th {
     border: none!important;
