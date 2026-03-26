@@ -76,3 +76,18 @@ td {
 abstract {
   font-size: 0.90rem;
 }
+
+.btn {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.45);
+  border-color: rgba(255, 255, 255, 0.7);
+  border-width: 2px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+
+  &:hover {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-color: #fff;
+  }
+}
