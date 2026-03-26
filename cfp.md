@@ -41,11 +41,9 @@ available on OpenReview, there are *no* formally-published proceedings.
 
 We only accept submissions that have been prepared using LaTeX. Use the
 following workshop style files for your submission (the PDF file is
-provided as a preview of the expected style):
+provided as a preview of the expected style), in place of the standard ICML style file (`icml2026.sty`):
 
-- [icml_2026_weightsym.sty](/assets/icml_2026_weightsym.sty)
-- [icml_2026_weightsym.tex](/assets/icml_2026_weightsym.tex)
-- [icml_2026_weightsym.pdf](/assets/icml_2026_weightsym.pdf)
+- [icml2026_weightsymmetry.sty](/assets/icml2026_weightsymmetry.sty)
 
 # Scope and topics
 
