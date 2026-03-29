@@ -12,7 +12,7 @@ The submission deadline is **April 24, 2026 (23:59 AoE)**. -->
 | **Deadline**            |April 24, 2026 (23:59 AoE)|
 | **Author notification** |May 15, 2026, AOE (23:59 AoE)|
 
-We welcome all original research papers of up to 4 pages in length,
+<!--We welcome all original research papers of up to 4 pages in length,
 using the template provided [below](#style). This length does not include
 references or any supplementary materials. Reviewers are *not* obliged
 to read supplementary materials when reviewing the paper.  Submissions
@@ -20,38 +20,88 @@ should be a single file in `.pdf` format. The review process is
 *double-blind*, so please ensure that all papers are appropriately
 anonymised. 
 
-<!-- 
+
 We also welcome extended abstracts of up to 2 pages in length that
 describe open problems, novel applications, or challenges in
 *Topological Data Analysis*, *Topological Machine Learning*, and related
 areas&nbsp;(using the template provided [below](#style)). Again, this length does
-not include references or any supplementary materials. -->
+not include references or any supplementary materials.
 
 We also permit papers that have been recently published or are under
 submission to another venue. Please mark such papers accordingly upon
 submission. The page limit for these submissions is 4 pages.
 
-Selected papers will be presented as brief 'spotlights' of 3 minutes length.
-All authors of accepted papers will have the option to present their work in a live session.
+Accepted papers will be presented as posters; a subset of especially noteworthy papers from both tracks will be selected for oral presentations. We will present a Best Student Paper Award to recognize
+outstanding student-led research.
 
 This workshop is **non-archival**; even though all accepted papers will be
-available on OpenReview, there are *no* formally-published proceedings.
+available on OpenReview, there are *no* formally-published proceedings.-->
 
-# Style
+We welcome all original research papers of up to **4 pages** in length (excluding references and supplementary material), with one additional page allowed for the camera-ready version. We also permit papers that have been recently published or are under submission to another venue. 
+<!--Please mark such papers accordingly upon submission.-->
+
+All accepted papers will be presented as **posters**; a subset of especially noteworthy papers will be selected for **oral presentations**. We will present a **Best Student Paper Award** to recognize outstanding student-led research.
+
+This workshop is **non-archival**; even though all accepted papers will be available on OpenReview, there are no formally-published proceedings.
+
+# Submission Instructions
+
+- Submissions should be a single file in `.pdf` format, submitted via **OpenReview** (link TBA).
+- We only accept submissions prepared using LaTeX. Use the official [ICML 2026 style files](https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip) with [icml2026_weightsymmetry.sty](/assets/icml2026_weightsymmetry.sty) in place of the standard ICML style file (`icml2026.sty`).
+- The review process is *double-blind*; ensure all submissions are properly anonymised.
+- All submissions will receive at least three reviews. Conflicts of interest must be disclosed.
+- Supplementary material is permitted but reviewers are not required to read it -- ensure your submission is self-contained.
+
+
+<!--# Style
 
 We only accept submissions that have been prepared using LaTeX. Use the
 following workshop style files for your submission (the PDF file is
 provided as a preview of the expected style), in place of the standard ICML style file (`icml2026.sty`):
 
-- [icml2026_weightsymmetry.sty](/assets/icml2026_weightsymmetry.sty)
+- [icml2026_weightsymmetry.sty](/assets/icml2026_weightsymmetry.sty)-->
 
 # Scope and topics
+We aim to connect theoretical and practical research on weight-space symmetries and welcome contributions from across this spectrum. We are interested in work that advances the theoretical understanding of weight-space structure, empirical studies that shed light on symmetry effects, practical methods that exploit symmetries, and approaches that make these methods work for modern models at scale.
 
-Please find a list of topics of interested, sorted alphabetically. If
+We welcome submissions on topics including, but not limited to:
+
+**Characterizing Weight-Space Symmetries**
+- Hidden and undiscovered symmetries in neural network parameter spaces.
+- Symmetries in modern architectures (MoE, SSMs, LoRA, multi-modal networks).
+- Beyond exact symmetries: approximate, data-dependent, and distributional symmetries.
+- Connections between weight-space symmetries and representation-space symmetries.
+
+**Loss Landscape and Optimization**
+- Geometry and topology of the loss landscape induced by weight-space symmetries.
+- Effect of weight-space symmetries on optimization trajectories and convergence.
+- Scalable symmetry-aware and symmetry-breaking optimization: leveraging symmetries for better initialization, training acceleration, and trajectory reuse.
+- Implicit bias, generalization, and expressivity through the lens of weight-space symmetry.
+
+**Linear Mode Connectivity and Model Merging**
+- Permutation- and symmetry-based alignment methods for model merging.
+- Extensions of linear mode connectivity to modern large-scale architectures.
+- Merging models trained from different initializations, tasks, or modalities at scale.
+- Understanding of when and why merging succeeds or fails.
+
+**Weight-Space Learning**
+- Symmetry-aware analysis and comparison of individual models and model populations.
+- Equivariant and invariant architectures for processing neural network weights, and weight augmentation methods.
+- Generative models over weight spaces: sampling, synthesis, and interpolation.
+- Applications to accelerating training, model merging, model editing, and other emerging cases.
+
+**Other Applications of Weight-Space Symmetries**
+- Model compression, quantization, and efficient architectures.
+- Uncertainty quantification and Bayesian inference.
+- Model safety, interpretability, and mechanistic analysis.
+- Any other setting where weight-space symmetries provide theoretical or practical insights.
+
+
+<!-- Please find a list of topics of interested, sorted alphabetically. If
 you are not sure whether your topic might be a good fit for the
 workshop, feel free to contact us.
 
-<!-- at [workshop@topology.rocks](mailto:workshop@topology.rocks). -->
+at [workshop@topology.rocks](mailto:workshop@topology.rocks). 
 
 ## Topics of Interest
 We welcome submissions on all topics related to weight-space symmetries, including but not limited to:
@@ -77,4 +127,4 @@ We welcome submissions on all topics related to weight-space symmetries, includi
 - **Other Applications**
 
     Accounting for weight-space symmetries can improve model compression [Li et al. (2024)](https://openreview.net/forum?id%3Dis_pjY5786W); [Chen et al. (2025)](https://openreview.net/forum?id=ogO6DGE6FZ), quantization [Liu et al. (2025)](https://openreview.net/forum?id=ogO6DGE6FZ), uncertainty quantification [Laurent et al. (2024)](https://openreview.net/forum?id=FOSBQuXgAq); [Xiao et al. (2023)](https://arxiv.org/abs/2310.15045), and model safety [Peng et al. (2025)](https://proceedings.mlr.press/v267/peng25f.html). The workshop will highlight these broader applications and encourage discussion of symmetry-aware methods across diverse practical settings.  
-
+-->

@@ -13,9 +13,9 @@ We are happy to feature the following invited speakers (listed alphabetically by
 - [Sidak Pal Singh](#sidak-pal-singh)
 - [Robin Walters](#robin-walters)
 
-## Orals
+<!--## Orals
 
-Orals will be selected from the accepted papers. The speakers will be notified by email at a future date.
+Orals will be selected from the accepted papers. The speakers will be notified by email at a future date.-->
 
 ## Gintare Karolina Dziugaite
 
