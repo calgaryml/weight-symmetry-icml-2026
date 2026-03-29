@@ -7,7 +7,7 @@ layout: default
 | **Date** | One-day workshop on Fri 10th July or Sat 11th July 2026 (TBA) |
 | **Location** | Coex Convention & Exhibition Center, Seoul, South Korea |
 | **Submission** | Deadline April 24, 2026 (AOE) on OpenReview (link TBA) |
-| **Latest News** | Follow [@weightsymmetry](https://twitter.com/weightsymmetry) on X/Twitter |
+| **Latest News** | Follow us at [@weightsymmetry](https://twitter.com/weightsymmetry) on X/Twitter for the updates! |
 
 # Overview
 
@@ -15,7 +15,7 @@ Neural network weight spaces have a rich geometric structure, shaped by symmetri
 
 This workshop aims to deepen the fundamental understanding of weight-space symmetries and their effects, and to translate these insights into practical and scalable methods with diverse applications.
 
-Topics of interest include:
+**Topics of interest include:**
 - Characterizing weight-space symmetries across model architectures.
 - Loss landscape structure, training dynamics, and symmetry-aware optimization.
 - Linear mode connectivity and model merging.
