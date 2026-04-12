@@ -40,7 +40,7 @@ available on OpenReview, there are *no* formally-published proceedings.-->
 We welcome all original research papers of up to **4 pages** in length (excluding references and supplementary material), with one additional page allowed for the camera-ready version. We also permit papers that have been recently published or are under submission to another venue. 
 <!--Please mark such papers accordingly upon submission.-->
 
-All accepted papers will be presented as **posters**; a subset of especially noteworthy papers will be selected for **oral presentations**. We will present a **Best Student Paper Award** to recognize outstanding student-led research.
+All accepted papers will be presented as **posters**; a subset of especially noteworthy papers will be selected for **oral presentations**. We will present a **Best Paper Award** to recognize outstanding research.
 
 This workshop is **non-archival**; even though all accepted papers will be available on OpenReview, there are no formally-published proceedings.
 
