@@ -8,7 +8,7 @@ The submission deadline is **April 24, 2026 (23:59 AoE)**. -->
 
 <!-- | **Submission**          |[https://openreview.net/group?id=ICML.cc/2026/Workshop/TDA_and_Beyond](https://openreview.net/group?id=ICML.cc/2026/Workshop/WeightSymmetry)| -->
 
-| **Submission Portal**          |OpenReview (link TBA)|
+| **Submission Portal**          |[OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/WSS)|
 | **Deadline**            |April 30, 2026 (23:59 AoE)|
 | **Author notification** |May 15, 2026, AOE (23:59 AoE)|
 
