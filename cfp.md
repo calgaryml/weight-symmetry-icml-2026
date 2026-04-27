@@ -10,7 +10,7 @@ The submission deadline is **April 24, 2026 (23:59 AoE)**. -->
 
 | **Submission Portal**          |[OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/WSS)|
 | **Deadline**            |April 30, 2026 (23:59 AoE)|
-| **Author notification** |May 15, 2026, AOE (23:59 AoE)|
+| **Author notification** |May 14, 2026, AOE (23:59 AoE)|
 
 <!--We welcome all original research papers of up to 4 pages in length,
 using the template provided [below](#style). This length does not include
