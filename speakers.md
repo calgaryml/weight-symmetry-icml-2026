@@ -29,15 +29,17 @@ Orals will be selected from the accepted papers. The speakers will be notified b
 </div>
 </div>
 
-## Stefanie Jegelka
+## Damian Borth
 
 <div class="organizer-card" markdown="0">
-<a class="organizer-photo" href="https://people.csail.mit.edu/stefje/" title="Stefanie Jegelka Website">
-<img src="/assets/images/speakers/stefanie.jpg" alt="Stefanie Jegelka" height="250px" />
+<a class="organizer-photo" href="https://ics.unisg.ch/chairs/damian-borth-artificial-intelligence-and-machine-learning/" title="Damian Borth Website">
+<img src="/assets/images/speakers/damian.jpeg" alt="Stefanie Jegelka" height="250px" />
 </a>
 <div class="organizer-details" markdown="0">
-<p><strong>Affiliation:</strong> MIT and TU Munich <span class="profile-links"><a href="https://people.csail.mit.edu/stefje/" class="website-link" title="Stefanie Jegelka Website" aria-label="Stefanie Jegelka Website"><i class="fa-solid fa-globe" aria-hidden="true"></i></a> <a href="https://scholar.google.com/citations?user=gTWUZlsAAAAJ&hl=en" title="Stefanie Jegelka Google Scholar" aria-label="Stefanie Jegelka Google Scholar"><i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i></a></span></p>
-<p><strong>Biography:</strong> Stefanie Jegelka is an Associate Professor of Electrical Engineering and Computer Science at MIT and a member of CSAIL. Her research develops principled machine learning methods grounded in optimization and discrete mathematics, with applications spanning structured prediction, robustness, and large-scale decision-making. Her recent works focus on the impact of neural parameter symmetries and the development of equivariant models for weight-space learning. Her work has received multiple best paper awards and honors, including the NSF CAREER Award and Sloan Research Fellowship.</p>
+<p><strong>Affiliation:</strong> University of St. Gallen <span class="profile-links"><a href="https://ics.unisg.ch/chairs/damian-borth-artificial-intelligence-and-machine-learning/" class="website-link" title="Damian Borth Website" aria-label="Damian Borth Website"><i class="fa-solid fa-globe" aria-hidden="true"></i></a> <a href="https://scholar.google.com/citations?user=J-8Z038AAAAJ&hl=en" title="Damian Borth Google Scholar" aria-label="Damian Borth Google Scholar"><i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i></a></span></p>
+<p><strong>Biography:</strong> Prof. Dr. Damian Borth is the director of the Institute of Computer Science at the University of St. Gallen, where he holds a full professorship in Artificial Intelligence and Machine Learning (AIML). Previously, Damian was the founding director of the Deep Learning Competence Center at the German Research Center for Artificial Intelligence (DFKI) in Kaiserslautern, where he was also PI of the NVIDIA AI Lab at the DFKI. 
+His research focuses on representation learning of neural networks’ weight spaces. His work has been awarded the ACM SIGMM Test of Time Award 2023, the Google Research Scholar Award 2022, the NVIDIA AI Lab at GTC 2016, the Best Paper Award at ACM ICMR 2012, and the McKinsey Business Technology Award in 2011.
+Damian conducted his postdoctoral research at UC Berkeley and the International Computer Science Institute (ICSI), where he worked on projects at Lawrence Livermore National Laboratory. He received his PhD from the University of Kaiserslautern and the German Research Center for Artificial Intelligence (DFKI). During that time, Damian stayed as a visiting researcher at the Digital Video and Multimedia Lab at Columbia University, New York City, USA.</p>
 </div>
 </div>
 
