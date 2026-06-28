@@ -67,15 +67,15 @@ Damian conducted his postdoctoral research at UC Berkeley and the International 
 </div>
 </div>
 
-## Robin Walters
+## Melanie Weber
 
 <div class="organizer-card" markdown="0">
-<a class="organizer-photo" href="https://www.robinwalters.com/" title="Robin Walters Website">
-<img src="/assets/images/speakers/robin.jpg" alt="Robin Walters" height="250px" />
+<a class="organizer-photo" href="https://melanie-weber.com/" title="Melanie Weber Website">
+<img src="/assets/images/speakers/Melanie-Weber.jpg" alt="Melanie Weber" height="250px" />
 </a>
 <div class="organizer-details" markdown="0">
-<p><strong>Affiliation:</strong> Northeastern University <span class="profile-links"><a href="https://www.robinwalters.com/" class="website-link" title="Robin Walters Website" aria-label="Robin Walters Website"><i class="fa-solid fa-globe" aria-hidden="true"></i></a> <a href="https://scholar.google.com/citations?user=fnprJmUAAAAJ&hl=en" title="Robin Walters Google Scholar" aria-label="Robin Walters Google Scholar"><i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i></a></span></p>
-<p><strong>Biography:</strong> Robin Walters is an Assistant Professor of Computer Science at Northeastern University and the director of the Geometric Learning Lab. His research focuses on symmetries in deep learning, spanning theory through the lens of symmetry, symmetry-aware optimization methods, the development of new equivariant models, and applications of equivariant neural networks across science and engineering. Walters is a visiting fellow at the Boston Dynamics AI Institute, where he develops equivariant neural networks for sample efficient robot perception and manipulation.</p>
+<p><strong>Affiliation:</strong> Harvard University <span class="profile-links"><a href="https://melanie-weber.com/" class="website-link" title="Melanie Weber Website" aria-label="Melanie Weber Website"><i class="fa-solid fa-globe" aria-hidden="true"></i></a> <a href="https://scholar.google.co.uk/citations?user=Bo7Y1j0AAAAJ" title="Melanie Weber Google Scholar" aria-label="Melanie Weber Google Scholar"><i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i></a></span></p>
+<p><strong>Biography:</strong> Melanie is an Assistant Professor of Applied Mathematics and of Computer Science at Harvard University, where she leads the Geometric Machine Learning Group. Her research studies geometric structure in data and models and how to leverage such information for the design of new, efficient machine learning methods with provable guarantees. Before joing Harvard, she was a Hooke Research Fellow at the Mathematical Institute in Oxford and received her PhD from Princeton University. She is a recipient of the IMA Leslie Fox Prize in Numerical Analysis, an Alfred P. Sloan Research Fellowship in Mathematics, a Schmidt Sciences AI2050 Fellowship, and a COLM Outstanding Paper Award.</p>
 </div>
 </div>
 
