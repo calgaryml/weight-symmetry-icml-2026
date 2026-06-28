@@ -5,7 +5,7 @@ layout: default
 # Speakers
 
 ## Invited Speakers
-We are happy to feature the following invited speakers (listed alphabetically by last name):
+We are happy to feature the following invited speakers:
 
 - [Gintare Karolina Dziugaite](#gintare-karolina-dziugaite)
 - [Stefanie Jegelka](#stefanie-jegelka)
