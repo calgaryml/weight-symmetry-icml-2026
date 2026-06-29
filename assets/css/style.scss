@@ -200,3 +200,242 @@ abstract {
     border-color: #fff;
   }
 }
+
+/* Custom Schedule Timeline styling */
+
+.schedule-timezone-note {
+  font-size: 0.95rem;
+  color: #555;
+  background: #fdf2f2;
+  border-left: 4px solid #C41E3A;
+  padding: 0.75rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0 6px 6px 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+  i {
+    color: #C41E3A;
+    font-size: 1.1rem;
+  }
+}
+
+.schedule-timeline {
+  position: relative;
+  margin: 2.5rem 0;
+  padding-left: 1.5rem;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 4px;
+    top: 5px;
+    bottom: 5px;
+    width: 2px;
+    background: #e5e7eb;
+  }
+}
+
+.schedule-item {
+  position: relative;
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.25rem;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1.25rem;
+  align-items: start;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-color: #d1d5db;
+  }
+
+  /* Timeline indicator dot */
+  &::before {
+    content: '';
+    position: absolute;
+    left: -1.45rem;
+    top: 1.35rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #cbd5e1;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px #e2e8f0;
+    z-index: 2;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  /* Left accent borders & colors depending on categories */
+  &.invited-talk {
+    border-left: 4px solid #10b981;
+    &::before {
+      background: #10b981;
+      box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
+    }
+  }
+
+  &.contributed-talk {
+    border-left: 4px solid #3b82f6;
+    &::before {
+      background: #3b82f6;
+      box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+    }
+  }
+
+  &.break {
+    border-left: 4px solid #9ca3af;
+    background: #f9fafb;
+    &::before {
+      background: #9ca3af;
+      box-shadow: 0 0 0 2px rgba(156, 163, 175, 0.2);
+    }
+  }
+
+  &.panel {
+    border-left: 4px solid #f59e0b;
+    &::before {
+      background: #f59e0b;
+      box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.2);
+    }
+  }
+
+  &.general {
+    border-left: 4px solid #8b5cf6;
+    &::before {
+      background: #8b5cf6;
+      box-shadow: 0 0 0 2px rgba(139, 92, 246, 0.2);
+    }
+  }
+
+  &.poster {
+    border-left: 4px solid #ec4899;
+    &::before {
+      background: #ec4899;
+      box-shadow: 0 0 0 2px rgba(236, 72, 153, 0.2);
+    }
+  }
+}
+
+.schedule-time-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.schedule-time {
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #374151;
+  letter-spacing: -0.02em;
+}
+
+.schedule-badge {
+  display: inline-block;
+  align-self: start;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.45rem;
+  border-radius: 4px;
+  
+  .invited-talk & {
+    color: #047857;
+    background: #d1fae5;
+  }
+  
+  .contributed-talk & {
+    color: #1d4ed8;
+    background: #dbeafe;
+  }
+  
+  .break & {
+    color: #374151;
+    background: #e5e7eb;
+  }
+  
+  .panel & {
+    color: #b45309;
+    background: #fef3c7;
+  }
+  
+  .general & {
+    color: #6d28d9;
+    background: #ede9fe;
+  }
+  
+  .poster & {
+    color: #be185d;
+    background: #fce7f3;
+  }
+}
+
+.schedule-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.schedule-title {
+  margin: 0 !important;
+  font-size: 1.08rem;
+  font-weight: 700;
+  color: #111827;
+  line-height: 1.4;
+}
+
+.schedule-speaker {
+  font-size: 0.95rem;
+  color: #4b5563;
+  font-weight: 500;
+  
+  a {
+    color: #C41E3A;
+    text-decoration: none;
+    font-weight: 600;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.schedule-speaker-affiliation {
+  font-size: 0.85rem;
+  color: #6b7280;
+  font-weight: 400;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .schedule-timeline {
+    padding-left: 1.25rem;
+  }
+  
+  .schedule-item {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    padding: 0.85rem 1rem;
+    
+    &::before {
+      left: -1.33rem;
+      top: 1.05rem;
+    }
+  }
+  
+  .schedule-time-box {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
