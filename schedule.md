@@ -29,9 +29,9 @@ title: Schedule
       <span class="schedule-badge">Invited Talk</span>
     </div>
     <div class="schedule-details">
-      <h3 class="schedule-title">Invited Talk: Robin Walters (Virtual)</h3>
+      <h3 class="schedule-title">Invited Talk: Dr. Robin Walters (Virtual)</h3>
       <div class="schedule-speaker">
-        <a href="/speakers#robin-walters">Robin Walters</a>
+        <a href="/speakers#robin-walters">Dr. Robin Walters</a>
       </div>
       <div class="schedule-speaker-affiliation">Northeastern University</div>
     </div>
@@ -79,7 +79,7 @@ title: Schedule
     <div class="schedule-details">
       <h3 class="schedule-title">Invited Talk: Representation Learning of Neural Networks' Weight Spaces</h3>
       <div class="schedule-speaker">
-        <a href="/speakers#damian-borth">Damian Borth</a>
+        <a href="/speakers#damian-borth">Dr. Damian Borth</a>
       </div>
       <div class="schedule-speaker-affiliation">University of St. Gallen</div>
     </div>
@@ -94,7 +94,7 @@ title: Schedule
     <div class="schedule-details">
       <h3 class="schedule-title">Invited Talk: Leveraging Weight-Space Symmetries for Quantization</h3>
       <div class="schedule-speaker">
-        <a href="/speakers#zechun-liu">Zechun Liu</a>
+        <a href="/speakers#zechun-liu">Dr. Zechun Liu</a>
       </div>
       <div class="schedule-speaker-affiliation">Meta</div>
     </div>
@@ -109,7 +109,7 @@ title: Schedule
     <div class="schedule-details">
       <h3 class="schedule-title">Invited Talk: Weight-Space Symmetries and Model Merging</h3>
       <div class="schedule-speaker">
-        <a href="/speakers#sidak-pal-singh">Sidak Pal Singh</a>
+        <a href="/speakers#sidak-pal-singh">Dr. Sidak Pal Singh</a>
       </div>
       <div class="schedule-speaker-affiliation">Google DeepMind</div>
     </div>
@@ -135,7 +135,7 @@ title: Schedule
     <div class="schedule-details">
       <h3 class="schedule-title">Invited Talk: Generalization, Mode Connectivity, and Symmetries</h3>
       <div class="schedule-speaker">
-        <a href="/speakers#gintare-karolina-dziugaite">Gintare Karolina Dziugaite</a>
+        <a href="/speakers#gintare-karolina-dziugaite">Dr. Gintare Karolina Dziugaite</a>
       </div>
       <div class="schedule-speaker-affiliation">Google DeepMind, Mila, McGill University</div>
     </div>
