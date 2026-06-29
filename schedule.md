@@ -22,18 +22,18 @@ title: Schedule
     </div>
   </div>
 
-  <!-- Item 2: Robin Walters (Virtual) -->
+  <!-- Item 2: Melanie Weber (Virtual) -->
   <div class="schedule-item invited-talk">
     <div class="schedule-time-box">
       <span class="schedule-time">08:30 - 09:05</span>
       <span class="schedule-badge">Invited Talk</span>
     </div>
     <div class="schedule-details">
-      <h3 class="schedule-title">Invited Talk: Dr. Robin Walters (Virtual)</h3>
+      <h3 class="schedule-title">Invited Talk: Dr. Melanie Weber (Virtual)</h3>
       <div class="schedule-speaker">
-        <a href="/speakers#robin-walters">Dr. Robin Walters</a>
+        <a href="https://melanie-weber.com/">Dr. Melanie Weber</a>
       </div>
-      <div class="schedule-speaker-affiliation">Northeastern University</div>
+      <div class="schedule-speaker-affiliation">Harvard University</div>
     </div>
   </div>
 
