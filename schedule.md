@@ -31,7 +31,7 @@ title: Schedule
     <div class="schedule-details">
       <h3 class="schedule-title">Invited Talk: Dr. Melanie Weber (Virtual)</h3>
       <div class="schedule-speaker">
-        <a href="https://melanie-weber.com/">Dr. Melanie Weber</a>
+        <a href="/speakers#melanie-weber">Dr. Melanie Weber</a>
       </div>
       <div class="schedule-speaker-affiliation">Harvard University</div>
     </div>
