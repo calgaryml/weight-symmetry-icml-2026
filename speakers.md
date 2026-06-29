@@ -11,7 +11,7 @@ We are happy to feature the following invited speakers:
 - [Stefanie Jegelka](#stefanie-jegelka)
 - [Zechun Liu](#zechun-liu)
 - [Sidak Pal Singh](#sidak-pal-singh)
-- [Robin Walters](#robin-walters)
+- [Melanie Weber](#melanie-weber)
 
 <!--## Orals
 
