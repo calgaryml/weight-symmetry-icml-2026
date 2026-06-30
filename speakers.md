@@ -8,7 +8,7 @@ layout: default
 We are happy to feature the following invited speakers:
 
 - [Gintare Karolina Dziugaite](#gintare-karolina-dziugaite)
-- [Stefanie Jegelka](#stefanie-jegelka)
+- [Damian Borth](#damian-borth)
 - [Zechun Liu](#zechun-liu)
 - [Sidak Pal Singh](#sidak-pal-singh)
 - [Melanie Weber](#melanie-weber)
