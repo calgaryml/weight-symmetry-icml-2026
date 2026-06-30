@@ -5,7 +5,7 @@ layout: default
 <!--| **Workshop Title** | {{ site.title }} |-->
 
 | **Date** | One-day workshop on Friday, July 10, 2026 |
-| **Location** | Coex Convention & Exhibition Center, Seoul, South Korea |
+| **Location** | Room 403, Coex Convention & Exhibition Center, Seoul, South Korea |
 | **Submission** | Deadline ~~April 30, 2026 (AOE)~~ → **May 8, 2026 (AOE)** on [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/WSS) |
 | **Latest News** | Follow us at [@weightsymmetry](https://twitter.com/weightsymmetry) on X/Twitter for the updates! |
 
