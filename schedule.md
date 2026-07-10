@@ -203,7 +203,7 @@ title: Schedule
       <span class="schedule-badge">Poster Session</span>
     </div>
     <div class="schedule-details">
-      <h3 class="schedule-title">Poster Session</h3>
+      <h3 class="schedule-title">Poster Session (Hall A 4513–4517, 4626–4600)</h3>
     </div>
   </div>
 
